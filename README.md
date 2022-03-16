@@ -3,6 +3,7 @@
 I am a software artisan with a strong passion on doing my job.
 I keep myself updated and i try to improve my skills day by day.
 
+Pythonista since ever, fond of Rust and Elixir too. 
 <!--
 **fmarco/fmarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
